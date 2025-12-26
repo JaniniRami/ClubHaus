@@ -1,0 +1,101 @@
+[
+  {
+    "id": "1",
+    "name": "Sustainability Club",
+    "category": "Sustainability",
+    "members": 42,
+    "description": "Created to promote learning and work towards sustainability at GJU by involving students in real-life exercises; aims to spread sustainability awareness within the GJU community.",
+    "image": "/sb-club.jpg",
+    "isJoined": false
+  },
+  {
+    "id": "2",
+    "name": "Innovation Club",
+    "category": "Technology",
+    "members": 123,
+    "description": "The club aims to develop and enhance entrepreneurship and innovation skills. The club is a platform for individuals to learn and exchange knowledge in the field of entrepreneurship.",
+    "image": "/ino-club.png",
+    "isJoined": false
+  },
+  {
+    "id": "3",
+    "name": "Debate Club",
+    "category": "Academic",
+    "members": 37,
+    "description": "Platform for students to develop critical thinking, public speaking, and argumentation skills through discussions, workshops, and competitions.",
+    "image": "/deb-club.jpg",
+    "isJoined": false
+  },
+  {
+    "id": "4",
+    "name": "Arabic Language Club",
+    "category": "Culture",
+    "members": 33,
+    "description": "Interest in Arabic language by celebrating special events and encouraging reading.",
+    "image": "/arab-club.jpeg",
+    "isJoined": false
+  },
+  {
+    "id": "5",
+    "name": "Biomedical Engineering Club",
+    "category": "Engineering",
+    "members": 88,
+    "description": "Brings together students interested in medical technology and engineering; builds knowledge and skills via workshops, events, and projects.",
+    "image": "/bm-club.png",
+    "isJoined": false
+  },
+  {
+    "id": "6",
+    "name": "Business Club",
+    "category": "Business",
+    "members": 112,
+    "description": "Executes activities related to business and mini projects.",
+    "image": "/bs-club.jpeg",
+    "isJoined": false
+  },
+  {
+    "id": "7",
+    "name": "Camping and Hiking Club",
+    "category": "Outdoors",
+    "members": 94,
+    "description": "Organizes adventure tourism activities (camping, hiking, horseback riding), explores Jordan’s heritage, and runs volunteering initiatives; led by student Hussam Kasasbeh.",
+    "image": "/camp-club.jpg",
+    "isJoined": false
+  },
+  {
+    "id": "8",
+    "name": "Communication Club",
+    "category": "Skills",
+    "members": 53,
+    "description": "Enhances students’ communication skills and strengthens bonds between international and local students through social, academic, and cultural activities.",
+    "image": "/comm-club.jpg",
+    "isJoined": false
+  },
+  {
+    "id": "9",
+    "name": "GJU Dual Studies Club",
+    "category": "Career",
+    "members": 61,
+    "description": "Student-run group supporting first-year students interested in GJU’s Dual Studies Program by offering advice, sharing experiences, and guidance.",
+    "image": "/dual-club.jpeg",
+    "isJoined": false
+  },
+  {
+    "id": "10",
+    "name": "GDG on Campus GJU Chapter",
+    "category": "Technology",
+    "members": 118,
+    "description": "Established in 2024 as the first Google Developer Group at GJU; empowers students with knowledge, tools, and opportunities in technology and innovation.",
+    "image": "/gdg-club.png",
+    "isJoined": false
+  },
+  {
+    "id": "11",
+    "name": "IEEE GJU Student Branch",
+    "category": "Technology",
+    "members": 145,
+    "description": "Active IEEE student branch at GJU fostering innovation, professional growth, and technical excellence; the page notes over 145 active IEEE members.",
+    "image": "/ieee-club.png",
+    "isJoined": false
+  }
+]
