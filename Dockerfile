@@ -16,7 +16,7 @@ RUN npm install
 COPY . .
 
 # Expose the port Next.js runs on
-EXPOSE 4584
+EXPOSE 5173
 
 # Set environment variable for Next.js
 ENV NODE_ENV=development
