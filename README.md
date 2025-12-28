@@ -93,5 +93,5 @@ These barriers matter because student organization participation is linked to me
 
 * ClubHaus uses containerized infrastructure to allow easy handover to **future student developers, open-source contributors, or GJU IT**. This empowers incoming students to maintain ownership and drive improvements, ensuring the platform remains a dynamic, long term asset beyond the founders' graduation.
 
-[View Demo PDF](./demo.pdf)
+![Demo](demo.jpg)
 
