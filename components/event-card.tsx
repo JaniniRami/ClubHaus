@@ -32,7 +32,7 @@ export function EventCard({ event, featured = false, onToggleRegister, onViewDet
   return (
     <Card
       className={cn(
-        "overflow-hidden border border-border/50 bg-card hover:border-accent/50 transition-all duration-200 hover:shadow-lg hover:shadow-accent/10",
+        "overflow-hidden border border-border/50 bg-card hover:border-accent/50 transition-all duration-200 hover:shadow-lg hover:shadow-accent/10 pt-0",
         featured && "shadow-md",
       )}
     >

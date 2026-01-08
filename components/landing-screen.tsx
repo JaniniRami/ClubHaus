@@ -28,13 +28,13 @@ export function LandingScreen({ onGetStarted }: LandingScreenProps) {
   ]
 
   return (
-    <div className="h-full flex flex-col bg-gradient-to-br from-background via-background to-muted/30">
+    <div className="h-full flex flex-col bg-background">
       {/* Main Content */}
       <div className="flex-1 flex flex-col items-center justify-center px-6 pt-12 pb-8">
         {/* App Logo/Icon */}
         <div className="mb-8">
-          <div className="h-24 w-24 rounded-3xl bg-primary/20 flex items-center justify-center mb-6 shadow-lg shadow-primary/25">
-            <Sparkles className="h-12 w-12 text-primary" />
+          <div className="h-24 w-24 rounded-3xl bg-primary flex items-center justify-center mb-6 shadow-lg shadow-primary/30">
+            <Sparkles className="h-12 w-12 text-white" />
           </div>
         </div>
 
@@ -53,10 +53,10 @@ export function LandingScreen({ onGetStarted }: LandingScreenProps) {
           {features.map((feature, index) => (
             <div
               key={index}
-              className="flex items-start gap-4 p-4 rounded-2xl bg-card/50 border border-border/50 backdrop-blur-sm"
+              className="flex items-start gap-4 p-4 rounded-2xl bg-primary/5 border border-primary/20 backdrop-blur-sm"
             >
-              <div className="h-10 w-10 rounded-xl bg-primary/10 flex items-center justify-center flex-shrink-0">
-                <feature.icon className="h-5 w-5 text-primary" />
+              <div className="h-10 w-10 rounded-xl bg-primary flex items-center justify-center flex-shrink-0">
+                <feature.icon className="h-5 w-5 text-white" />
               </div>
               <div className="flex-1">
                 <h3 className="text-sm font-semibold text-foreground mb-1">

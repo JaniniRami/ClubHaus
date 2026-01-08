@@ -28,8 +28,8 @@ export default function HomePage() {
   }
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-background p-4">
-      <div className="w-full max-w-md h-[844px] bg-card rounded-[2.5rem] shadow-2xl overflow-hidden border border-border/50 relative">
+    <div className="min-h-screen flex items-center justify-center p-4" style={{ backgroundColor: '#fafafa' }}>
+      <div className="w-full max-w-md h-[844px] bg-card rounded-[2.5rem] overflow-hidden border border-border/50 relative">
         {showLanding ? (
           <LandingScreen onGetStarted={handleGetStarted} />
         ) : !showMainFeed ? (
